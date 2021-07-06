@@ -1,0 +1,78 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+}
+.orange {
+    color: orange;
+}
+.anisial {
+    display: flex;
+
+    
+}
+#hero-img{
+    margin-left: 25%;
+}
+
+.border{
+    padding: 5%;
+}
+.half-width {
+    width: 50%;
+    
+}
+.half-width img {
+    width: 70%;
+}
+#about-me{
+    background-image: url(img/7.png);
+}
+#about-me img{
+   width: 50%;
+}
+.link-button {
+    text-decoration: none;
+    background: linear-gradient(rgb(251, 255, 0),orange);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 800;
+    border-radius: 10px;
+} 
+
+.Recipics-content {
+    text-align: center;
+    
+    
+
+}
+
+#Recipics{
+    display: flex;
+    
+    justify-content: center;
+
+}
+.Recipic{
+    width: 20%;
+    margin: 20px;
+    padding: 2%;
+    box-shadow: 0 0 10px gray;
+    border-radius: 10px;
+}
+.Recipic img{
+ width: 100%;
+}
+
+   
+ footer{
+     text-align: center;
+     padding: 5vh;
+     background-color: rgb(29, 33, 36);
+     color: lightyellow;
+ }
